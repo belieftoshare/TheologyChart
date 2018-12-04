@@ -6,3 +6,4 @@
 # 威廉丁道爾生平年表
 # 大災難 Tribulation - 新約用語
 # 大災難 Tribulation - 舊約用語
+# 舊約中的律例
